@@ -1,0 +1,7 @@
+h1 {background:rgba(0, 147, 255, 0.12); color: #4b49ad; text-align: center; margin: 0;}
+    .zero {background: #e8fafb}
+    .ramka {height: 70px;}
+    .main {display: flex; justify-content: space-around; flex-wrap: wrap;
+    align-items: center; }
+    .tretyna {width: 25%; text-align: center}
+  
