@@ -1,0 +1,9 @@
+h1 {background:rgba(0, 147, 255, 0.12); color: #4b49ad; text-align: center; margin: 0;}
+.zero {background: #e8fafb}
+.ramka {height: 70px;}
+.main {display: flex; justify-content: space-around; flex-wrap: wrap;
+align-items: center; }
+.tretynaA {width: 200px; text-align: center}
+.podil {width: 1000px;  text-align: left}
+h3 {text-align: center}
+.scratch {background-color: rgb(109, 204, 248); color: black;  margin: 15px}
